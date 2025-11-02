@@ -120,6 +120,7 @@ const ejer12 =() =>{
     alert(componerTransformaciones(texto));
 }
 
+<<<<<<< HEAD
 const ejer13 =() =>{
     function procesarTexto(texto){
         const limpiarEspacios = texto =>{
@@ -299,5 +300,8 @@ const ejer24 =()=>{
     console.log(secuencia()); 
     
 }
+=======
+
+>>>>>>> 14f78f76ea8897b18c1ad334b637532f3e4dfaf7
 
 
